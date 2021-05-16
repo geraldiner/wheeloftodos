@@ -1,7 +1,7 @@
 {
   "name": "whattodo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Letting RNGesus decide what you should do.",
   "main": "server.js",
   "scripts": {
     "start": "cross-env NODE_ENV=production node server.js",
